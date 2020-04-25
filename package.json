@@ -1,7 +1,7 @@
 {
   "name": "CodeceptJSWebDockerizedTest",
   "description": "Dockerized Selenium Grid Web Automation Testing using CodeceptJS WebdriverIO plugin",
-  "version": "0.1",
+  "version": "0.0.1",
   "author": "JP Pamintuan",
   "devDependencies": {
     "codeceptjs": "2.5.0",
